@@ -3,7 +3,9 @@ Some golang implementations of Leetcode problems.
 
 ## Summary
 * [Binary Search Tree](BST/README.txt)
-    * [98. Validate Binary Search Tree]()
+    * [98. Validate Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
+        * [Solution1: In-order, recursive](BST/98/solution2.cpp)
+        * [Solution2: In-order, recursive, min, max](BST/99/solution2.cpp)
     * [99. Recover Binary Search Tree]()
     * [108. Convert Sorted Array to Binary Search Tree]()
     * [230. Kth Smallest Element in a BST]()

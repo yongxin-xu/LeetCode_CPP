@@ -1,7 +1,11 @@
 test_env/
 
 main
+solution
+solution2
+solution3
 
 */main.dSYM
+*/solution*.dSYM
 
 .vscode/
