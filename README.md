@@ -12,7 +12,7 @@ Some golang implementations of Leetcode problems.
     * [450. Delete Node in a BST]()
     * [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
         * [Solution: In-order, recursive](BST/501/solution.cpp)
-    * [530. Minimum Absolute Difference in BST]()
+    * [530. Minimum Absolute Difference in BST](BST/530/solution.cpp)
     * [700. Search in a Binary Search Tree]()
     * [701. Insert into a Binary Search Tree]()
 * [Miscellaneous](Miscellaneous/README.txt)
