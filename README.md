@@ -18,6 +18,8 @@ Some golang implementations of Leetcode problems.
 * [Miscellaneous](Miscellaneous/README.txt)
     *[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
         * [Solution: Heap](Miscellaneous/1046/solution.cpp)
+    *[Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)
+        * [Solution: Others](Miscellaneous/Perform_String_Shifts/solution.cpp)
 * [Tree](Tree/README.txt)
     * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
         * [Solution: In-order, recursive](Tree/543/solution.cpp)
