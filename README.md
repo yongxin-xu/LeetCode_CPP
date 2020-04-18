@@ -23,6 +23,7 @@ Some golang implementations of Leetcode problems.
     * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
         * [Solution1: Failed, TLE, Search](DynamicProgramming/64/solution.cpp)
         * [Solution2: DP, 2D Space](DynamicProgramming/64/solution2.cpp)
+        * [Solution3: DP, 1D Space](DynamicProgramming/64/solution3.cpp)
 * [Miscellaneous](Miscellaneous/README.txt)
     *[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
         *[Solution1: Time: O(n), Space: O(n)](Miscellaneous/238/solution.cpp)
