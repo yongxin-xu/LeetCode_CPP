@@ -2,6 +2,9 @@
 Some golang implementations of Leetcode problems.
 
 ## Summary
+* [Binary Search](BinarySearch/README.txt)
+    * [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+        * [Solution: Binary Search](BinarySearch/33/solution.cpp)
 * [Binary Search Tree](BST/README.txt)
     * [98. Validate Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
         * [Solution1: In-order, recursive](BST/98/solution1.cpp)
