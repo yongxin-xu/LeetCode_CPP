@@ -18,6 +18,7 @@ Some golang implementations of Leetcode problems.
         * [Solution: In-order, recursive](BST/230/solution.cpp)
     * [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/submissions/)
         * [Solution: Recursive, Find Substitution](BST/450/solution.cpp)
+        * [Solution2: Iterative, Find Substitution](BST/450/solution2.cpp)
     * [501. Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/)
         * [Solution: In-order, recursive](BST/501/solution.cpp)
     * [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
