@@ -25,6 +25,8 @@ Some golang implementations of Leetcode problems.
         * [Solution: recursive](BST/700/solution.cpp)
     * [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
         * [Solution: recursive](BST/701/solution.cpp)
+    * [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
+        * [Solution: insert one by one](BST/1008/solution.cpp)
 * [Dynamic Programming](DynamicProgramming/README.txt)
     * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
         * [Solution1: Failed, TLE, Search](DynamicProgramming/64/solution.cpp)
