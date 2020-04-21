@@ -44,6 +44,12 @@ Some golang implementations of Leetcode problems.
     * [Solution3: DP, 1D Space](DynamicProgramming/64/solution3.cpp)
 </details>
 
+<b><details><summary>List</summary></b>
+
+* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+    * [Solution](List/2/solution.cpp)
+</details>
+
 <b><details><summary>Miscellaneous</summary></b>
 
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
