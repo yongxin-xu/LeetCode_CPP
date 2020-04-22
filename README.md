@@ -48,6 +48,8 @@ Some golang implementations of Leetcode problems.
 
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
     * [Solution](List/2/solution.cpp)
+* [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+    * [Solution](List/24/solution.cpp)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/submissions/)
     * [Solution: Reverse, Add](List/445/solution.cpp)
 </details>
