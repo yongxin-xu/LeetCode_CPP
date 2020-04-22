@@ -57,6 +57,9 @@ Some golang implementations of Leetcode problems.
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
     * [Solution1: Time: O(n), Space: O(n)](Miscellaneous/238/solution.cpp)
     * [Solution2: Time: O(n), Space: O(1)](Miscellaneous/238/solution2.cpp)
+* [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+    * [Solution: Time: O(n^2), Space: O(n)](Miscellaneous/560/solution.cpp)
+    * [Solution: Time: O(n), Space: O(n), HashMap](Miscellaneous/560/solution2.cpp)
 * [1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)
     * [Solution: Heap](Miscellaneous/1046/solution.cpp)
 * [Perform String Shifts](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3299/)
@@ -71,12 +74,14 @@ Some golang implementations of Leetcode problems.
 </details>
 
 <b><details><summary>String</summary></b>
+
 * [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
     * [Solution1: Enumeration, Time Limit Exceeded](String/678/solution.cpp)
     * [Solution2: Hard to Come up with this idea](String/678/solution2.cpp)
 </details>
 
 <b><details><summary>Tree</summary></b>
+
 * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
     * [Solution: In-order, recursive](Tree/543/solution.cpp)
 </details>
