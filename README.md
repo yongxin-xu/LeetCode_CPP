@@ -50,6 +50,8 @@ Some golang implementations of Leetcode problems.
     * [Solution](List/2/solution.cpp)
 * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
     * [Solution](List/24/solution.cpp)
+* [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+    * [Solution](List/141/solution.cpp)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
     * [Solution](List/206/solution.cpp)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/submissions/)
@@ -58,7 +60,7 @@ Some golang implementations of Leetcode problems.
 
 <b><details><summary>Miscellaneous</summary></b>
 
-* [201. Bitwise AND of Numbers Range]()
+* [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
     * [Solution: Find Maximum Prefix](Miscellaneous/201/solution.cpp)
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
     * [Solution1: Time: O(n), Space: O(n)](Miscellaneous/238/solution.cpp)
