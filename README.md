@@ -52,6 +52,8 @@ Some golang implementations of Leetcode problems.
     * [Solution](List/24/solution.cpp)
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
     * [Solution](List/141/solution.cpp)
+    * [141. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)
+    * [Solution](List/142/solution.cpp)
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
     * [Solution](List/206/solution.cpp)
 * [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/submissions/)
