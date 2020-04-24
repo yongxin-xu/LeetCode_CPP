@@ -36,6 +36,12 @@ Some golang implementations of Leetcode problems.
     * [Solution: insert one by one](BST/1008/solution.cpp)
 </details>
 
+<b><details><summary>Data Structures</summary></b>
+
+* [146. LRU Cache](https://leetcode.com/problems/lru-cache/)
+    * [Solution: ](DataStructures/146/solution.cpp)
+</details>
+
 <b><details><summary>Dynamic Programming</summary></b>
 
 * [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
@@ -48,6 +54,8 @@ Some golang implementations of Leetcode problems.
 
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
     * [Solution](List/2/solution.cpp)
+* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+    * [Solution: Priority Queue](List/23/solution.cpp)
 * [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
     * [Solution](List/24/solution.cpp)
 * [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
