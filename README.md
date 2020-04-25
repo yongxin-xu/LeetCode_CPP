@@ -50,6 +50,13 @@ Some golang implementations of Leetcode problems.
     * [Solution3: DP, 1D Space](DynamicProgramming/64/solution3.cpp)
 </details>
 
+<b><details><summary>Graph</summary></b>
+
+* [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
+    * [Solution: Graph, DFS](Graph/399/solution.cpp)
+    * [Solution: Tree, Union-Find](Graph/399/solution2.cpp)
+</details>
+
 <b><details><summary>List</summary></b>
 
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
@@ -70,6 +77,8 @@ Some golang implementations of Leetcode problems.
 
 <b><details><summary>Miscellaneous</summary></b>
 
+* [55. Jump Game](https://leetcode.com/problems/jump-game/)
+    * [Solution: Greedy Algorithm](Miscellaneous/55/solution.cpp)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
     * [Solution: Find Maximum Prefix](Miscellaneous/201/solution.cpp)
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
