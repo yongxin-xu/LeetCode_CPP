@@ -8,8 +8,10 @@ Some C++ implementations of Leetcode problems.
 * [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
     * [Solution1: Enumeration, Time Limit Exceeded](ArrayAndString/678/solution.cpp)
     * [Solution2: Hard to Come up with this idea](ArrayAndString/678/solution2.cpp)
-* [724. Find Pivot Index](https://leetcode.com/problems/valid-parenthesis-string/)
+* [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
     * [Solution](ArrayAndString/724/solution.cpp)
+* [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/)
+    * [Solution](ArrayAndString/747/solution.cpp)
 </details>
 
 <b><details><summary>Binary Search</summary></b>
