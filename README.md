@@ -1,7 +1,16 @@
-## Leetcode - Golang
-Some golang implementations of Leetcode problems.
+## Leetcode - CPP
+Some C++ implementations of Leetcode problems.
 
 ## Summary
+
+<b><details><summary>Array and String</summary></b>
+
+* [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
+    * [Solution1: Enumeration, Time Limit Exceeded](ArrayAndString/678/solution.cpp)
+    * [Solution2: Hard to Come up with this idea](ArrayAndString/678/solution2.cpp)
+* [724. Find Pivot Index](https://leetcode.com/problems/valid-parenthesis-string/)
+    * [Solution](ArrayAndString/724/solution.cpp)
+</details>
 
 <b><details><summary>Binary Search</summary></b>
 
@@ -98,13 +107,6 @@ Some golang implementations of Leetcode problems.
 * [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
     * [Solution: DFS](Search/200/solution.cpp)
     * [Solution: BFS](Search/200/solution2.cpp)
-</details>
-
-<b><details><summary>String</summary></b>
-
-* [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
-    * [Solution1: Enumeration, Time Limit Exceeded](String/678/solution.cpp)
-    * [Solution2: Hard to Come up with this idea](String/678/solution2.cpp)
 </details>
 
 <b><details><summary>Tree</summary></b>
