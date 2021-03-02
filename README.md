@@ -5,6 +5,8 @@ Some C++ implementations of Leetcode problems.
 
 <b><details><summary>Array and String</summary></b>
 
+* [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
+    * [Solution](ArrayAndString/498/solution.cpp)
 * [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
     * [Solution1: Enumeration, Time Limit Exceeded](ArrayAndString/678/solution.cpp)
     * [Solution2: Hard to Come up with this idea](ArrayAndString/678/solution2.cpp)
