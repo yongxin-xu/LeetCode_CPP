@@ -101,6 +101,8 @@ Some C++ implementations of Leetcode problems.
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
     * [Solution1: Time: O(n), Space: O(n)](Miscellaneous/238/solution.cpp)
     * [Solution2: Time: O(n), Space: O(1)](Miscellaneous/238/solution2.cpp)
+* [268. Missing Number](https://leetcode.com/problems/missing-number/)
+    * [Solution: Sum and Subtract](Miscellaneous/268/solution.cpp)
 * [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
     * [Solution: Time: O(n^2), Space: O(n)](Miscellaneous/560/solution.cpp)
     * [Solution: Time: O(n), Space: O(n), HashMap](Miscellaneous/560/solution2.cpp)
