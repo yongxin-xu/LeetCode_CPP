@@ -98,6 +98,8 @@ Some C++ implementations of Leetcode problems.
 
 * [55. Jump Game](https://leetcode.com/problems/jump-game/)
     * [Solution: Greedy Algorithm](Miscellaneous/55/solution.cpp)
+* [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
+    * [Solution: 2D array](Miscellaneous/118/solution.cpp)
 * [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)
     * [Solution: Find Maximum Prefix](Miscellaneous/201/solution.cpp)
 * [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
