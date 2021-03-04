@@ -119,6 +119,10 @@ Some C++ implementations of Leetcode problems.
 
 <b><details><summary>Tree</summary></b>
 
+* [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
+    * [Solution: Level-order](Tree/116/solution.cpp)
+* [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
+    * [Solution: Level-order](Tree/117/solution.cpp)
 * [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
     * [Solution: In-order, recursive](Tree/543/solution.cpp)
 </details>
