@@ -125,6 +125,8 @@ Some C++ implementations of Leetcode problems.
 
 <b><details><summary>Tree</summary></b>
 
+* [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+    * [Solution: binary, recursive](Tree/105/solution.cpp)
 * [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
     * [Solution: Level-order](Tree/116/solution.cpp)
 * [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)
