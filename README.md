@@ -9,6 +9,8 @@ Some C++ implementations of Leetcode problems.
     * [Solution](ArrayAndString/54/solution.cpp)
 * [66. Plus One](https://leetcode.com/problems/plus-one/)
     * [Solution](ArrayAndString/66/solution.cpp)
+* [67. Add Binary](https://leetcode.com/problems/add-binary/)
+    * [Solution](ArrayAndString/67/solution.cpp)
 * [498. Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)
     * [Solution](ArrayAndString/498/solution.cpp)
 * [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/)
