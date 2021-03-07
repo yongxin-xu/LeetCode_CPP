@@ -142,6 +142,8 @@ Some C++ implementations of Leetcode problems.
     * [Solution: In-order, recursive](Tree/543/solution.cpp)
 * [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
     * [Solution: Pre-order, recursive](Tree/589/solution.cpp)
+* [590. N-ary Tree Postorder  Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)
+    * [Solution: Post-order, recursive](Tree/590/solution.cpp)
 * [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
     * [Solution: Level-order](Tree/637/solution.cpp)
 </details>
