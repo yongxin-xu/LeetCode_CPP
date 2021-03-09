@@ -146,4 +146,6 @@ Some C++ implementations of Leetcode problems.
     * [Solution: Post-order, recursive](Tree/590/solution.cpp)
 * [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
     * [Solution: Level-order](Tree/637/solution.cpp)
+* [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)
+    * [Solution: Level-order](Tree/987/solution.cpp)
 </details>
